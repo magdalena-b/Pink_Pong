@@ -1,1 +1,1 @@
-# Pink_Pong
+simple pong game written using pygame
